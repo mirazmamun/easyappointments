@@ -1,4 +1,4 @@
-Easy!Appointments++
+Eppointz++
 ================
 This project has been forked from the foundation [EasyAppointments](https://github.com/alextselegidis/easyappointments) to customize more and add backend function for different organisation parties like:
 1. Org admin
